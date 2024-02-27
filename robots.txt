@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dummyEkko.github.io/sitemap.xml
