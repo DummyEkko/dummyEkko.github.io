@@ -3,7 +3,7 @@ name: generate github pages to gh-pages branch
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - main ## Set a branch name to trigger deployment
 
 jobs:
   deploy:
@@ -25,7 +25,10 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/master'
+        # If you're changing the branch from main, 
+        # also change the `main` in `refs/heads/main` 
+        # below accordingly.
+        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
