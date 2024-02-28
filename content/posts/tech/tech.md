@@ -1,7 +1,6 @@
 ---
 title: "字体最佳实践"
-date: 2022-05-05T00:17:58+08:00
-lastmod: 2022-05-05T00:17:58+08:00
+date: 2024-02-27T19:25:21+08:00
 author: ["lizhi"]
 keywords: 
 - 
@@ -15,7 +14,7 @@ tags:
 description: "介绍字体使用到优化"
 weight:
 slug: ""
-draft: true # 是否为草稿
+draft: false # 是否为草稿
 comments: true
 reward: false # 打赏
 mermaid: true #是否开启mermaid
