@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>👨🏻‍💻 技术 on lizhi&#39;s Blog</title>
-    <link>https://dummyEkko.github.io/posts/tech/</link>
-    <description>Recent content in 👨🏻‍💻 技术 on lizhi&#39;s Blog</description>
+    <title>Web on lizhi&#39;s Blog</title>
+    <link>https://dummyEkko.github.io/tags/web/</link>
+    <description>Recent content in Web on lizhi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 27 Feb 2024 19:25:21 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Feb 2024 19:25:21 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>字体最佳实践</title>
       <link>https://dummyEkko.github.io/posts/tech/tech/</link>
