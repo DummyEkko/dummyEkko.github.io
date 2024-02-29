@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>👨🏻‍💻 技术 on lizhi&#39;s Blog</title>
-    <link>https://dummyEkko.github.io/posts/tech/</link>
-    <description>Recent content in 👨🏻‍💻 技术 on lizhi&#39;s Blog</description>
+    <title>Vue on lizhi&#39;s Blog</title>
+    <link>https://dummyEkko.github.io/tags/vue/</link>
+    <description>Recent content in Vue on lizhi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 29 Feb 2024 14:24:37 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Feb 2024 14:24:37 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/tags/vue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vue3编译优化</title>
       <link>https://dummyEkko.github.io/posts/tech/vue3%E7%BC%96%E8%AF%91%E4%BC%98%E5%8C%96/</link>
@@ -14,24 +14,6 @@
       
       <guid>https://dummyEkko.github.io/posts/tech/vue3%E7%BC%96%E8%AF%91%E4%BC%98%E5%8C%96/</guid>
       <description>静态提升 静态节点提升 编译器将模板编译成render函数的时候，会发现静态节点，然后进行静态提升。 静态提升是以树为单位 例如： &amp;lt;div&amp;gt; &amp;lt;div&amp;gt;foo&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;{{ bar }}&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; 对应的渲染函数： // before function render() { return ( openBlock(), createBlock(&amp;#39;div&amp;#39;, null, [ createVNode(&amp;#39;p&amp;#39;, null, &amp;#39;foo&amp;#39;), createVNode(&amp;#39;p&amp;#39;, null, ctx.bar, 1 /*TEXT*/), ]) ) } // after // 将纯静态的 虚拟节点提升 const hosit1 = createVNode(&amp;#39;p&amp;#39;, null, &amp;#39;foo&amp;#39;) function render() { return ( openBlock(), createBlock(&amp;#39;div&amp;#39;, null, [ hosit1, // 传递引用，这样每次ren</description>
-    </item>
-    
-    <item>
-      <title>Xss和crsf</title>
-      <link>https://dummyEkko.github.io/posts/tech/xss%E5%92%8Ccrsf/</link>
-      <pubDate>Thu, 29 Feb 2024 14:21:00 +0800</pubDate>
-      
-      <guid>https://dummyEkko.github.io/posts/tech/xss%E5%92%8Ccrsf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>字体最佳实践</title>
-      <link>https://dummyEkko.github.io/posts/tech/%E5%AD%97%E4%BD%93%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</link>
-      <pubDate>Tue, 27 Feb 2024 19:25:21 +0800</pubDate>
-      
-      <guid>https://dummyEkko.github.io/posts/tech/%E5%AD%97%E4%BD%93%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</guid>
-      <description>介绍字体使用到优化</description>
     </item>
     
   </channel>
