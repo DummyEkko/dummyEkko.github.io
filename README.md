@@ -1,1 +1,1 @@
-hugo new posts/xx/文章名称.md
+hugo new posts/xxgit/文章名称.md
