@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Web</title>
-      <link>https://dummyEkko.github.io/tags/web/</link>
-      <pubDate>Thu, 29 Feb 2024 14:21:00 +0800</pubDate>
-      
-      <guid>https://dummyEkko.github.io/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Font</title>
       <link>https://dummyEkko.github.io/tags/font/</link>
       <pubDate>Tue, 27 Feb 2024 19:25:21 +0800</pubDate>
@@ -49,6 +40,15 @@
       <pubDate>Tue, 27 Feb 2024 19:25:21 +0800</pubDate>
       
       <guid>https://dummyEkko.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://dummyEkko.github.io/tags/web/</link>
+      <pubDate>Tue, 27 Feb 2024 19:25:21 +0800</pubDate>
+      
+      <guid>https://dummyEkko.github.io/tags/web/</guid>
       <description></description>
     </item>
     
