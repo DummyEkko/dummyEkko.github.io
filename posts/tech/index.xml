@@ -6,7 +6,16 @@
     <description>Recent content in 👨🏻‍💻 技术 on lizhi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 29 Feb 2024 14:24:37 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Feb 2024 22:14:41 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lazyload</title>
+      <link>https://dummyEkko.github.io/posts/tech/lazyload/</link>
+      <pubDate>Thu, 29 Feb 2024 22:14:41 +0800</pubDate>
+      
+      <guid>https://dummyEkko.github.io/posts/tech/lazyload/</guid>
+      <description>什么是懒加载？为什么需要懒加载？怎么实现懒加载？</description>
+    </item>
+    
     <item>
       <title>Vue3编译优化</title>
       <link>https://dummyEkko.github.io/posts/tech/vue3%E7%BC%96%E8%AF%91%E4%BC%98%E5%8C%96/</link>
