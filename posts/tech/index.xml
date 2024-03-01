@@ -6,7 +6,16 @@
     <description>Recent content in 👨🏻‍💻 技术 on lizhi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 29 Feb 2024 22:14:41 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 19:14:21 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>渲染流程</title>
+      <link>https://dummyEkko.github.io/posts/tech/%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B/</link>
+      <pubDate>Fri, 01 Mar 2024 19:14:21 +0800</pubDate>
+      
+      <guid>https://dummyEkko.github.io/posts/tech/%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B/</guid>
+      <description>浏览器的渲染流程</description>
+    </item>
+    
     <item>
       <title>Lazyload</title>
       <link>https://dummyEkko.github.io/posts/tech/lazyload/</link>

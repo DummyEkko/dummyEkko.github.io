@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web on lizhi&#39;s Blog</title>
+    <link>https://dummyEkko.github.io/categories/web/</link>
+    <description>Recent content in Web on lizhi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 01 Mar 2024 19:14:21 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>渲染流程</title>
+      <link>https://dummyEkko.github.io/posts/tech/%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B/</link>
+      <pubDate>Fri, 01 Mar 2024 19:14:21 +0800</pubDate>
+      
+      <guid>https://dummyEkko.github.io/posts/tech/%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B/</guid>
+      <description>浏览器的渲染流程</description>
+    </item>
+    
+  </channel>
+</rss>
