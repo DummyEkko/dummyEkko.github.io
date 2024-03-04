@@ -6,7 +6,16 @@
     <description>Recent content in Web on lizhi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 27 Feb 2024 19:25:21 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Feb 2024 20:21:00 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WEB网络安全</title>
+      <link>https://dummyEkko.github.io/posts/tech/xss%E5%92%8Ccrsf/</link>
+      <pubDate>Thu, 29 Feb 2024 20:21:00 +0800</pubDate>
+      
+      <guid>https://dummyEkko.github.io/posts/tech/xss%E5%92%8Ccrsf/</guid>
+      <description>xss、csrf攻击、CSP内容安全怎么运用</description>
+    </item>
+    
     <item>
       <title>字体最佳实践</title>
       <link>https://dummyEkko.github.io/posts/tech/%E5%AD%97%E4%BD%93%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</link>

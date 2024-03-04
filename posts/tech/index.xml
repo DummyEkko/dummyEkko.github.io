@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>WEB网络安全</title>
+      <link>https://dummyEkko.github.io/posts/tech/xss%E5%92%8Ccrsf/</link>
+      <pubDate>Thu, 29 Feb 2024 20:21:00 +0800</pubDate>
+      
+      <guid>https://dummyEkko.github.io/posts/tech/xss%E5%92%8Ccrsf/</guid>
+      <description>xss、csrf攻击、CSP内容安全怎么运用</description>
+    </item>
+    
+    <item>
       <title>Vue3编译优化</title>
       <link>https://dummyEkko.github.io/posts/tech/vue3%E7%BC%96%E8%AF%91%E4%BC%98%E5%8C%96/</link>
       <pubDate>Thu, 29 Feb 2024 14:24:37 +0800</pubDate>

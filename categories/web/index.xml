@@ -16,5 +16,14 @@
       <description>浏览器的渲染流程</description>
     </item>
     
+    <item>
+      <title>WEB网络安全</title>
+      <link>https://dummyEkko.github.io/posts/tech/xss%E5%92%8Ccrsf/</link>
+      <pubDate>Thu, 29 Feb 2024 20:21:00 +0800</pubDate>
+      
+      <guid>https://dummyEkko.github.io/posts/tech/xss%E5%92%8Ccrsf/</guid>
+      <description>xss、csrf攻击、CSP内容安全怎么运用</description>
+    </item>
+    
   </channel>
 </rss>
