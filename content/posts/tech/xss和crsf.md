@@ -98,18 +98,18 @@ style-src cdn.example.org third-party.org; child-src https:
 
 字段:
 
-- **child-src**: 为 Web Workers 和其他内嵌浏览器内容（例如用 <frame> 和 <iframe> 加载到页面的内容）定义合法的源地址。
-- **connect-src**: 限制能通过脚本接口加载的 URL。
-- **default-src**: 其他取指令提供备用服务 fetch directives。
-- **font-src**: 设置允许通过 @font-face 加载的字体源地址。
-- frame-src：设置允许通过类似 <frame> 和 <iframe> 标签加载的内嵌内容的源地址。
-- img-src：限制图片和图标的源地址
-- manifest-src：限制应用声明文件的源地址。
-- media-src：限制通过 <audio>、<video> 或 <track> 标签加载的媒体文件的源地址。
-- object-src：限制 <object> 或 <embed> 标签的源地址。
-- prefetch-src: 指定预加载或预渲染的允许源地址。
-- script-src: 限制 JavaScript 的源地址。
-- style-src: 限制层叠样式表文件源。
+- **child-src**: 为 `Web Workers` 和其他内嵌浏览器内容（例如用 `<frame>` 和 `<iframe>` 加载到页面的内容）定义合法的源地址。
+- **connect-src**: 限制能通过脚本接口加载的`URL`。
+- **default-src**: 其他取指令提供备用服务`fetch directives`。
+- **font-src**: 设置允许通过`@font-face` 加载的字体源地址。
+- **frame-src**：设置允许通过类似 `<frame>` 和 `<iframe>` 标签加载的内嵌内容的源地址。
+- **img-src**：限制图片和图标的源地址
+- **manifest-src**：限制应用声明文件的源地址。
+- **media-src**：限制通过 `<audio>`、`<video>` 或 `<track>` 标签加载的媒体文件的源地址。
+- **object-src**：限制 `<object>` 或 `<embed>` 标签的源地址。
+- **prefetch-src**: 指定预加载或预渲染的允许源地址。
+- **script-src**: 限制 `JavaScript` 的源地址。
+- **style-src**: 限制层叠样式表文件源。
 
 [mdn](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Content-Security-Policy)
 
