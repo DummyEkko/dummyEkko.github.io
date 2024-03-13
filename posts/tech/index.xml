@@ -6,7 +6,16 @@
     <description>Recent content in 👨🏻‍💻 技术 on lizhi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 12 Mar 2024 13:56:41 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 15:47:14 +0800</lastBuildDate><atom:link href="https://dummyEkko.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TTFB</title>
+      <link>https://dummyEkko.github.io/posts/tech/ttfb/</link>
+      <pubDate>Wed, 13 Mar 2024 15:47:14 +0800</pubDate>
+      
+      <guid>https://dummyEkko.github.io/posts/tech/ttfb/</guid>
+      <description>优化加载第一个字节所需时间 首字节时间 (TTFB) 是一项基础的网页性能指标，早于所有其他有意义的用户体验指标，例如首次内容绘制 (FCP) 和 Largest Contentful Paint (LCP)。这意味着，较高的 TTFB 值会延长其后面的指标的时间。 尽量将 TTFB 控制在 0.8 秒或更短 Server-Timing响应头 后端使用Server-Timing响应头可</description>
+    </item>
+    
     <item>
       <title>WebWorker</title>
       <link>https://dummyEkko.github.io/posts/tech/webworker/</link>

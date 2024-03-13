@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dummyEkko.github.io/posts/tech/</loc>
-    <lastmod>2024-03-12T13:56:41+08:00</lastmod>
+    <lastmod>2024-03-13T15:47:14+08:00</lastmod>
   </url><url>
     <loc>https://dummyEkko.github.io/posts/</loc>
-    <lastmod>2024-03-12T13:56:41+08:00</lastmod>
+    <lastmod>2024-03-13T15:47:14+08:00</lastmod>
   </url><url>
     <loc>https://dummyEkko.github.io/</loc>
-    <lastmod>2024-03-12T13:56:41+08:00</lastmod>
+    <lastmod>2024-03-13T15:47:14+08:00</lastmod>
+  </url><url>
+    <loc>https://dummyEkko.github.io/posts/tech/ttfb/</loc>
+    <lastmod>2024-03-13T15:47:14+08:00</lastmod>
   </url><url>
     <loc>https://dummyEkko.github.io/posts/tech/webworker/</loc>
     <lastmod>2024-03-12T13:56:41+08:00</lastmod>
@@ -71,7 +74,7 @@
     <loc>https://dummyEkko.github.io/posts/tech/%E5%AD%97%E4%BD%93%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</loc>
     <lastmod>2024-02-27T19:25:21+08:00</lastmod>
   </url><url>
-    <loc>https://dummyEkko.github.io/posts/blog/</loc>
+    <loc>https://dummyEkko.github.io/posts/node/</loc>
     <lastmod>2022-05-05T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://dummyEkko.github.io/posts/life/</loc>
